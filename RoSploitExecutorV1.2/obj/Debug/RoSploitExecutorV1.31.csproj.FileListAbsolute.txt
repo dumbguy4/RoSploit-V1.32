@@ -1,0 +1,13 @@
+C:\Users\mumut\source\repos\RoSploitExecutorV1.2\RoSploitExecutorV1.2\bin\Debug\RoSploitExecutorV1.31.exe.config
+C:\Users\mumut\source\repos\RoSploitExecutorV1.2\RoSploitExecutorV1.2\bin\Debug\RoSploitExecutorV1.31.exe
+C:\Users\mumut\source\repos\RoSploitExecutorV1.2\RoSploitExecutorV1.2\bin\Debug\RoSploitExecutorV1.31.pdb
+C:\Users\mumut\source\repos\RoSploitExecutorV1.2\RoSploitExecutorV1.2\bin\Debug\FastColoredTextBox.dll
+C:\Users\mumut\source\repos\RoSploitExecutorV1.2\RoSploitExecutorV1.2\obj\Debug\RoSploitExecutorV1.31.csproj.AssemblyReference.cache
+C:\Users\mumut\source\repos\RoSploitExecutorV1.2\RoSploitExecutorV1.2\obj\Debug\RoSploitExecutorV1._2.Form1.resources
+C:\Users\mumut\source\repos\RoSploitExecutorV1.2\RoSploitExecutorV1.2\obj\Debug\RoSploitExecutorV1._31.Properties.Resources.resources
+C:\Users\mumut\source\repos\RoSploitExecutorV1.2\RoSploitExecutorV1.2\obj\Debug\RoSploitExecutorV1.31.csproj.GenerateResource.cache
+C:\Users\mumut\source\repos\RoSploitExecutorV1.2\RoSploitExecutorV1.2\obj\Debug\RoSploitExecutorV1.31.csproj.CoreCompileInputs.cache
+C:\Users\mumut\source\repos\RoSploitExecutorV1.2\RoSploitExecutorV1.2\obj\Debug\RoSploit.635F14DB.Up2Date
+C:\Users\mumut\source\repos\RoSploitExecutorV1.2\RoSploitExecutorV1.2\obj\Debug\RoSploitExecutorV1.31.exe
+C:\Users\mumut\source\repos\RoSploitExecutorV1.2\RoSploitExecutorV1.2\obj\Debug\RoSploitExecutorV1.31.pdb
+C:\Users\mumut\source\repos\RoSploitExecutorV1.2\RoSploitExecutorV1.2\bin\Debug\ForlornApi.dll
